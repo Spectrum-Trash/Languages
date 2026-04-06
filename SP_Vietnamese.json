@@ -1,0 +1,88 @@
+{
+  "general_tabs": "Tab Chung",
+  "automatics": "Tu Dong",
+  "merchant": "Cua Hang",
+  "dungeon": "Pho Ban",
+  "teleport": "Dich Chuyen",
+  "artifacts": "Artifact",
+  "upgrades": "Nang Cap",
+  "trading": "Giao Dich",
+  "priority": "Uu Tien",
+  "stats_ascend": "Chi So & Thang Cap",
+  "miscellaneous": "Khac",
+  "notifications": "Thong Bao",
+  "settings": "Cai Dat",
+
+  "select_monster_title": "Chon Quai",
+  "select_monster_desc": "Chon quai de farm",
+
+  "refresh_npc_list_title": "Lam Moi Danh Sach NPC",
+  "refresh_npc_list_desc": "Cap nhat danh sach NPC",
+
+  "auto_farm_selected_title": "Tu Dong Farm [Da Chon]",
+  "auto_farm_selected_desc": "Tu dong farm NPC da chon",
+
+  "auto_quest_accept_title": "Tu Dong Nhan Nhiem Vu",
+  "auto_quest_accept_desc": "Tu dong nhan nhiem vu cho muc tieu dang farm",
+
+  "auto_farm_max_level_title": "Tu Dong Farm [Max Level]",
+  "auto_farm_max_level_desc": "Tu dong farm quai theo level de lay EXP toi da",
+
+  "auto_farm_nearest_title": "Tu Dong Farm [Gan Nhat]",
+  "auto_farm_nearest_desc": "Tu dong farm ke dich gan nhat",
+
+  "select_material_title": "Chon Nguyen Lieu",
+  "select_material_desc": "Chon nguyen lieu de farm tu dong",
+
+  "select_material_monster_title": "Chon Quai Roi",
+  "select_material_monster_desc": "Chon quai de farm cho nguyen lieu da chon",
+
+  "refresh_material_monster_list_title": "Lam Moi Quai Nguyen Lieu",
+  "refresh_material_monster_list_desc": "Cap nhat danh sach quai cho nguyen lieu",
+
+  "auto_farm_material_title": "Tu Dong Farm [Nguyen Lieu]",
+  "auto_farm_material_desc": "Tu dong farm nguyen lieu da chon",
+
+  "material_monitor_title": "Theo Doi Nguyen Lieu",
+  "boss_monitor_title": "Theo Doi Boss",
+  "pity_monitor_title": "Theo Doi Pity",
+
+  "show_boss_monitor_title": "Hien Theo Doi Boss",
+  "show_boss_monitor_desc": "Hien thong tin thoi gian spawn boss",
+
+  "select_normal_difficulty_title": "Chon Do Kho Thuong",
+  "select_normal_difficulty_desc": "Che do kho khi summon",
+
+  "select_pity_difficulty_title": "Chon Do Kho Pity",
+  "select_pity_difficulty_desc": "Do kho su dung khi pity dang hoat dong",
+
+  "select_boss_to_summon_title": "Chon Boss De Summon",
+  "select_boss_to_summon_desc": "Chon boss de summon va farm",
+
+  "select_boss_for_summon_pity_title": "Chon Boss Cho [Pity]",
+  "select_boss_for_summon_pity_desc": "Boss se farm khi pity san sang",
+
+  "auto_farm_summon_boss_title": "Tu Dong Farm [Summon Boss]",
+  "auto_farm_summon_boss_desc": "Tu dong summon va farm boss",
+
+  "auto_farm_summon_pity_title": "Tu Dong Farm [Summon Pity]",
+  "auto_farm_summon_pity_desc": "Summon boss thuong den khi pity san sang, sau do doi sang boss pity",
+
+  "status_idle": "Dang Nghi",
+  "status_ready": "San Sang!",
+  "status_building": "Dang Tich...",
+  "status_unknown": "Khong Ro",
+  "status_waiting_spawn": "Dang Cho Spawn",
+  "status_waiting_priority": "Dang Cho Uu Tien",
+  "status_waiting_other_system": "Dang Cho He Thong Khac",
+  "status_farming": "Dang Farm",
+
+  "material_label": "Nguyen Lieu",
+  "target_label": "Muc Tieu",
+  "status_label": "Trang Thai",
+  "current_label": "Hien Tai",
+
+  "notify_material_monster_refreshed": "Da lam moi danh sach quai nguyen lieu!",
+  "notify_blessing_list_refreshed": "Da lam moi danh sach Blessing!",
+  "notify_passive_weapon_list_refreshed": "Da lam moi danh sach vu khi Passive!"
+}
