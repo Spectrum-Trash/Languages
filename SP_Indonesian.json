@@ -1,0 +1,88 @@
+{
+  "general_tabs": "Tab Umum",
+  "automatics": "Otomatis",
+  "merchant": "Merchant",
+  "dungeon": "Dungeon",
+  "teleport": "Teleport",
+  "artifacts": "Artifact",
+  "upgrades": "Upgrade",
+  "trading": "Trading",
+  "priority": "Prioritas",
+  "stats_ascend": "Stat & Ascend",
+  "miscellaneous": "Lainnya",
+  "notifications": "Notifikasi",
+  "settings": "Pengaturan",
+
+  "select_monster_title": "Pilih Monster",
+  "select_monster_desc": "Pilih monster yang ingin di-farm",
+
+  "refresh_npc_list_title": "Refresh Daftar NPC",
+  "refresh_npc_list_desc": "Perbarui dropdown NPC",
+
+  "auto_farm_selected_title": "Auto Farm [Dipilih]",
+  "auto_farm_selected_desc": "Farm NPC yang dipilih secara otomatis",
+
+  "auto_quest_accept_title": "Auto Quest [Terima]",
+  "auto_quest_accept_desc": "Terima quest untuk target farm secara otomatis",
+
+  "auto_farm_max_level_title": "Auto Farm [Level Maks]",
+  "auto_farm_max_level_desc": "Farm monster sesuai level untuk EXP maksimal",
+
+  "auto_farm_nearest_title": "Auto Farm [Terdekat]",
+  "auto_farm_nearest_desc": "Farm musuh terdekat secara otomatis",
+
+  "select_material_title": "Pilih Bahan",
+  "select_material_desc": "Pilih bahan yang ingin di-farm",
+
+  "select_material_monster_title": "Pilih Monster Drop",
+  "select_material_monster_desc": "Pilih monster untuk farm bahan yang dipilih",
+
+  "refresh_material_monster_list_title": "Refresh Monster Bahan",
+  "refresh_material_monster_list_desc": "Perbarui dropdown monster bahan",
+
+  "auto_farm_material_title": "Auto Farm [Bahan]",
+  "auto_farm_material_desc": "Farm bahan yang dipilih secara otomatis",
+
+  "material_monitor_title": "Monitor Bahan",
+  "boss_monitor_title": "Monitor Boss",
+  "pity_monitor_title": "Monitor Pity",
+
+  "show_boss_monitor_title": "Tampilkan Monitor Boss",
+  "show_boss_monitor_desc": "Tampilkan info waktu spawn boss",
+
+  "select_normal_difficulty_title": "Pilih Difficulty Normal",
+  "select_normal_difficulty_desc": "Mode difficulty untuk summon",
+
+  "select_pity_difficulty_title": "Pilih Difficulty Pity",
+  "select_pity_difficulty_desc": "Mode difficulty saat target pity aktif",
+
+  "select_boss_to_summon_title": "Pilih Boss untuk Summon",
+  "select_boss_to_summon_desc": "Pilih boss untuk di-summon dan di-farm",
+
+  "select_boss_for_summon_pity_title": "Pilih Boss untuk [Pity]",
+  "select_boss_for_summon_pity_desc": "Boss yang akan di-farm saat pity siap",
+
+  "auto_farm_summon_boss_title": "Auto Farm [Summon Boss]",
+  "auto_farm_summon_boss_desc": "Summon dan farm boss secara otomatis",
+
+  "auto_farm_summon_pity_title": "Auto Farm [Summon Pity]",
+  "auto_farm_summon_pity_desc": "Summon boss biasa sampai pity siap, lalu ganti ke boss pity",
+
+  "status_idle": "Diam",
+  "status_ready": "Siap!",
+  "status_building": "Mengisi...",
+  "status_unknown": "Tidak Diketahui",
+  "status_waiting_spawn": "Menunggu Spawn",
+  "status_waiting_priority": "Menunggu Prioritas",
+  "status_waiting_other_system": "Menunggu Sistem Lain",
+  "status_farming": "Sedang Farm",
+
+  "material_label": "Bahan",
+  "target_label": "Target",
+  "status_label": "Status",
+  "current_label": "Saat Ini",
+
+  "notify_material_monster_refreshed": "Daftar monster bahan berhasil diperbarui!",
+  "notify_blessing_list_refreshed": "Daftar blessing berhasil diperbarui!",
+  "notify_passive_weapon_list_refreshed": "Daftar senjata passive berhasil diperbarui!"
+}
