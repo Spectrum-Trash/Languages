@@ -1,0 +1,88 @@
+{
+  "general_tabs": "แท็บทั่วไป",
+  "automatics": "อัตโนมัติ",
+  "merchant": "ร้านค้า",
+  "dungeon": "ดันเจี้ยน",
+  "teleport": "วาร์ป",
+  "artifacts": "อาร์ติแฟกต์",
+  "upgrades": "อัปเกรด",
+  "trading": "แลกเปลี่ยน",
+  "priority": "ลำดับความสำคัญ",
+  "stats_ascend": "ค่าสเตตัส & เลื่อนขั้น",
+  "miscellaneous": "อื่นๆ",
+  "notifications": "การแจ้งเตือน",
+  "settings": "ตั้งค่า",
+
+  "select_monster_title": "เลือกมอนสเตอร์",
+  "select_monster_desc": "เลือกมอนสเตอร์ที่จะฟาร์ม",
+
+  "refresh_npc_list_title": "รีเฟรชรายชื่อ NPC",
+  "refresh_npc_list_desc": "อัปเดตรายการ NPC ในช่องเลือก",
+
+  "auto_farm_selected_title": "ฟาร์มอัตโนมัติ [ตัวที่เลือก]",
+  "auto_farm_selected_desc": "ฟาร์ม NPC ที่เลือกโดยอัตโนมัติ",
+
+  "auto_quest_accept_title": "รับเควสอัตโนมัติ",
+  "auto_quest_accept_desc": "รับเควสของมอนที่กำลังฟาร์มอัตโนมัติ",
+
+  "auto_farm_max_level_title": "ฟาร์มอัตโนมัติ [เลเวลสูงสุด]",
+  "auto_farm_max_level_desc": "ฟาร์มมอนตามเลเวลเพื่อเก็บ EXP สูงสุด",
+
+  "auto_farm_nearest_title": "ฟาร์มอัตโนมัติ [ใกล้สุด]",
+  "auto_farm_nearest_desc": "ฟาร์มศัตรูที่อยู่ใกล้ที่สุดอัตโนมัติ",
+
+  "select_material_title": "เลือกวัตถุดิบ",
+  "select_material_desc": "เลือกวัตถุดิบที่จะฟาร์มอัตโนมัติ",
+
+  "select_material_monster_title": "เลือกมอนที่ดรอป",
+  "select_material_monster_desc": "เลือกมอนที่จะฟาร์มสำหรับวัตถุดิบที่เลือก",
+
+  "refresh_material_monster_list_title": "รีเฟรชมอนวัตถุดิบ",
+  "refresh_material_monster_list_desc": "อัปเดตรายชื่อมอนในช่องเลือกวัตถุดิบ",
+
+  "auto_farm_material_title": "ฟาร์มอัตโนมัติ [วัตถุดิบ]",
+  "auto_farm_material_desc": "ฟาร์มวัตถุดิบที่เลือกโดยอัตโนมัติ",
+
+  "material_monitor_title": "สถานะวัตถุดิบ",
+  "boss_monitor_title": "สถานะบอส",
+  "pity_monitor_title": "สถานะพิทตี้",
+
+  "show_boss_monitor_title": "แสดงสถานะบอส",
+  "show_boss_monitor_desc": "แสดงข้อมูลเวลาการเกิดของบอส",
+
+  "select_normal_difficulty_title": "เลือกระดับปกติ",
+  "select_normal_difficulty_desc": "เลือกระดับความยากสำหรับการอัญเชิญ",
+
+  "select_pity_difficulty_title": "เลือกระดับพิทตี้",
+  "select_pity_difficulty_desc": "เลือกระดับความยากเมื่อใช้เป้าหมายพิทตี้",
+
+  "select_boss_to_summon_title": "เลือกบอสที่จะอัญเชิญ",
+  "select_boss_to_summon_desc": "เลือกบอสที่จะอัญเชิญและฟาร์ม",
+
+  "select_boss_for_summon_pity_title": "เลือกบอสสำหรับ [พิทตี้]",
+  "select_boss_for_summon_pity_desc": "บอสที่จะฟาร์มเมื่อพิทตี้พร้อม",
+
+  "auto_farm_summon_boss_title": "ฟาร์มอัตโนมัติ [อัญเชิญบอส]",
+  "auto_farm_summon_boss_desc": "อัญเชิญและฟาร์มบอสโดยอัตโนมัติ",
+
+  "auto_farm_summon_pity_title": "ฟาร์มอัตโนมัติ [พิทตี้]",
+  "auto_farm_summon_pity_desc": "อัญเชิญบอสปกติจนพิทตี้พร้อม แล้วสลับไปบอสพิทตี้",
+
+  "status_idle": "ว่าง",
+  "status_ready": "พร้อม!",
+  "status_building": "กำลังสะสม...",
+  "status_unknown": "ไม่ทราบ",
+  "status_waiting_spawn": "รอเกิด",
+  "status_waiting_priority": "รอลำดับ",
+  "status_waiting_other_system": "รอระบบอื่น",
+  "status_farming": "กำลังฟาร์ม",
+
+  "material_label": "วัตถุดิบ",
+  "target_label": "เป้าหมาย",
+  "status_label": "สถานะ",
+  "current_label": "ปัจจุบัน",
+
+  "notify_material_monster_refreshed": "รีเฟรชมอนวัตถุดิบแล้ว!",
+  "notify_blessing_list_refreshed": "รีเฟรชรายการ Blessing แล้ว!",
+  "notify_passive_weapon_list_refreshed": "รีเฟรชรายการอาวุธ Passive แล้ว!"
+}
