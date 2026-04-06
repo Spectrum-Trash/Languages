@@ -1,0 +1,88 @@
+{
+  "general_tabs": "General Tabs",
+  "automatics": "Auto",
+  "merchant": "Merchant",
+  "dungeon": "Dungeon",
+  "teleport": "Teleport",
+  "artifacts": "Artifacts",
+  "upgrades": "Upgrades",
+  "trading": "Trading",
+  "priority": "Priority",
+  "stats_ascend": "Stats at Ascend",
+  "miscellaneous": "Iba Pa",
+  "notifications": "Notifications",
+  "settings": "Settings",
+
+  "select_monster_title": "Pili ng Monster",
+  "select_monster_desc": "Piliin kung anong monster ang ifa-farm",
+
+  "refresh_npc_list_title": "I-refresh ang NPC List",
+  "refresh_npc_list_desc": "I-update ang NPC dropdown",
+
+  "auto_farm_selected_title": "Auto Farm [Napili]",
+  "auto_farm_selected_desc": "Awtomatikong i-farm ang napiling NPC",
+
+  "auto_quest_accept_title": "Auto Quest [Accept]",
+  "auto_quest_accept_desc": "Awtomatikong tanggapin ang quest para sa target na fina-farm",
+
+  "auto_farm_max_level_title": "Auto Farm [Max Level]",
+  "auto_farm_max_level_desc": "Awtomatikong mag-farm base sa level mo para sa max XP",
+
+  "auto_farm_nearest_title": "Auto Farm [Pinakamalapit]",
+  "auto_farm_nearest_desc": "Awtomatikong i-farm ang pinakamalapit na kalaban",
+
+  "select_material_title": "Pili ng Materyales",
+  "select_material_desc": "Piliin kung anong materyales ang ifa-farm",
+
+  "select_material_monster_title": "Pili ng Monster Drop",
+  "select_material_monster_desc": "Piliin kung anong monster ang ifa-farm para sa napiling materyales",
+
+  "refresh_material_monster_list_title": "I-refresh ang Material Monster List",
+  "refresh_material_monster_list_desc": "I-update ang monster dropdown ng materyales",
+
+  "auto_farm_material_title": "Auto Farm [Materyales]",
+  "auto_farm_material_desc": "Awtomatikong i-farm ang napiling materyales",
+
+  "material_monitor_title": "Material Monitor",
+  "boss_monitor_title": "Boss Monitor",
+  "pity_monitor_title": "Pity Monitor",
+
+  "show_boss_monitor_title": "Ipakita ang Boss Monitor",
+  "show_boss_monitor_desc": "Ipakita ang timed boss spawn info",
+
+  "select_normal_difficulty_title": "Pili ng Normal Difficulty",
+  "select_normal_difficulty_desc": "Difficulty mode para sa summon",
+
+  "select_pity_difficulty_title": "Pili ng Pity Difficulty",
+  "select_pity_difficulty_desc": "Difficulty mode na gagamitin kapag active ang pity target",
+
+  "select_boss_to_summon_title": "Pili ng Boss na I-summon",
+  "select_boss_to_summon_desc": "Piliin kung anong boss ang i-susummon at ifa-farm",
+
+  "select_boss_for_summon_pity_title": "Pili ng Boss para sa [Pity]",
+  "select_boss_for_summon_pity_desc": "Boss na ifa-farm kapag ready na ang pity",
+
+  "auto_farm_summon_boss_title": "Auto Farm [Summon Boss]",
+  "auto_farm_summon_boss_desc": "Awtomatikong mag-summon at mag-farm ng boss",
+
+  "auto_farm_summon_pity_title": "Auto Farm [Summon Pity]",
+  "auto_farm_summon_pity_desc": "I-summon ang normal boss hanggang ready ang pity, tapos lilipat sa pity boss",
+
+  "status_idle": "Idle",
+  "status_ready": "Ready!",
+  "status_building": "Nag-iipon...",
+  "status_unknown": "Unknown",
+  "status_waiting_spawn": "Naghihintay ng Spawn",
+  "status_waiting_priority": "Naghihintay ng Priority",
+  "status_waiting_other_system": "Naghihintay ng Ibang System",
+  "status_farming": "Nagfa-farm",
+
+  "material_label": "Materyales",
+  "target_label": "Target",
+  "status_label": "Status",
+  "current_label": "Current",
+
+  "notify_material_monster_refreshed": "Na-refresh na ang material monster list!",
+  "notify_blessing_list_refreshed": "Na-refresh na ang blessing list!",
+  "notify_passive_weapon_list_refreshed": "Na-refresh na ang passive weapon list!"
+}
