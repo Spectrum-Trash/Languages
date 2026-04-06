@@ -1,0 +1,88 @@
+{
+  "general_tabs": "General Tabs",
+  "automatics": "Automatics",
+  "merchant": "Merchant",
+  "dungeon": "Dungeon",
+  "teleport": "Teleport",
+  "artifacts": "Artifacts",
+  "upgrades": "Upgrades",
+  "trading": "Trading",
+  "priority": "Priority",
+  "stats_ascend": "Stats & Ascend",
+  "miscellaneous": "Miscellaneous",
+  "notifications": "Notifications",
+  "settings": "Settings",
+
+  "select_monster_title": "Select Monster",
+  "select_monster_desc": "Choose which monster to farm",
+
+  "refresh_npc_list_title": "Refresh NPC List",
+  "refresh_npc_list_desc": "Update the NPC dropdown",
+
+  "auto_farm_selected_title": "Auto Farm [Selected]",
+  "auto_farm_selected_desc": "Automatically farm the selected NPC",
+
+  "auto_quest_accept_title": "Auto Quest [Accept]",
+  "auto_quest_accept_desc": "Automatically accept quest for farming target",
+
+  "auto_farm_max_level_title": "Auto Farm [Max Level]",
+  "auto_farm_max_level_desc": "Automatically farm mobs based on your level for max XP",
+
+  "auto_farm_nearest_title": "Auto Farm [Nearest]",
+  "auto_farm_nearest_desc": "Automatically farm the nearest enemy",
+
+  "select_material_title": "Select Material",
+  "select_material_desc": "Choose which material to auto-farm",
+
+  "select_material_monster_title": "Select Material Monster",
+  "select_material_monster_desc": "Choose which monster to farm for the selected material",
+
+  "refresh_material_monster_list_title": "Refresh Material Monster List",
+  "refresh_material_monster_list_desc": "Update the material monster dropdown",
+
+  "auto_farm_material_title": "Auto Farm [Material]",
+  "auto_farm_material_desc": "Automatically farm the selected material",
+
+  "material_monitor_title": "Material Monitor",
+  "boss_monitor_title": "Boss Monitor",
+  "pity_monitor_title": "Pity Monitor",
+
+  "show_boss_monitor_title": "Show Boss Monitor",
+  "show_boss_monitor_desc": "Display timed boss spawn monitor information",
+
+  "select_normal_difficulty_title": "Select Normal Difficulty",
+  "select_normal_difficulty_desc": "Difficulty mode for summoning",
+
+  "select_pity_difficulty_title": "Select Pity Difficulty",
+  "select_pity_difficulty_desc": "Difficulty mode to use when summon pity target is active",
+
+  "select_boss_to_summon_title": "Select Boss To Summon",
+  "select_boss_to_summon_desc": "Choose which boss to summon and farm",
+
+  "select_boss_for_summon_pity_title": "Select Boss For Summon [Pity]",
+  "select_boss_for_summon_pity_desc": "Boss to farm when summon pity is ready",
+
+  "auto_farm_summon_boss_title": "Auto Farm [Summon Boss]",
+  "auto_farm_summon_boss_desc": "Summon and farm boss automatically",
+
+  "auto_farm_summon_pity_title": "Auto Farm [Summon Pity]",
+  "auto_farm_summon_pity_desc": "Summon selected boss until pity is ready, then swap to pity boss",
+
+  "status_idle": "Idle",
+  "status_ready": "Ready!",
+  "status_building": "Building...",
+  "status_unknown": "Unknown",
+  "status_waiting_spawn": "Waiting Spawn",
+  "status_waiting_priority": "Waiting Priority",
+  "status_waiting_other_system": "Waiting Other System",
+  "status_farming": "Farming",
+
+  "material_label": "Material",
+  "target_label": "Target",
+  "status_label": "Status",
+  "current_label": "Current",
+
+  "notify_material_monster_refreshed": "Material monster list refreshed!",
+  "notify_blessing_list_refreshed": "Blessing list refreshed!",
+  "notify_passive_weapon_list_refreshed": "Passive weapon list refreshed!"
+}
